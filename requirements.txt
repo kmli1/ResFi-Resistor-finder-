@@ -1,0 +1,2 @@
+# Stage 1: data contracts only. OpenCV will be selected and tested in a later PR.
+numpy==2.3.5
